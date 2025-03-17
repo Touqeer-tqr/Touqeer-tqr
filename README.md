@@ -15,7 +15,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Touqeer-tqr&theme=radical&langs_count=3&count_private=true&hide=html&include_all_commits=true" alt="Touqeer's Top-Languages"/>
 </a>
 <a href="https://github.com/Touqeer-tqr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Touqeer-tqr&theme=radical&count_private=true&line_height=27&show_icons=true&include_all_commits=true" alt="Touqeer's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Touqeer-tqr&theme=radical&count_private=true&line_height=27&show_icons=true&include_all_commits=true&rank_icon=github" alt="Touqeer's GitHub Stats" />
 </a>
 
 <a href="https://github.com/Touqeer-tqr/slide-selector">
